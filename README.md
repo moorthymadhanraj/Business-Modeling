@@ -8,3 +8,4 @@
 * Bee-Up Tool
 * draw.io
 * Microsoft Visio
+* MS PowerPoint
