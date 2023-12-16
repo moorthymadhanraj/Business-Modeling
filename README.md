@@ -4,7 +4,7 @@
 * By modeling processes, businesses can streamline operations, improve decision-making, enhance collaboration, automate tasks, and drive innovation. BPM empowers organizations to break down silos, achieve operational excellence, and ultimately fuel their success.
 * Understand the business processes in deeper perspective
 
-# Tools
+# Tools 💡
 * Microsoft PowerPoint
 * Bee-Up Tool
 * draw.io
