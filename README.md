@@ -6,7 +6,7 @@
 
 # Tools 💡
 * MS PowerPoint
-* Bee-Up Tool
+* Bee-Up Tool (ADOXX)
 * draw.io
 * Microsoft Visio
 
