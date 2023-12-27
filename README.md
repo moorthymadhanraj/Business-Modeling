@@ -5,7 +5,7 @@
 * Understand the business processes in deeper perspective
 
 # Tools 💡
-* MS PowerPoint (MS Office)
+* MS PowerPoint (MS Office 365)
 * Bee-Up Tool (ADOXX)
 * draw.io
 * Microsoft Visio
